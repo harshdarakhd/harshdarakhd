@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p>AmolYadav /  README.md</p>
-<h1 align="center">Hi 👋, I'm Amol Yadav </h1>
+<p>HARSHDARAK /  README.md</p>
+<h1 align="center">Hi 👋, I'm HARSH DARAK </h1>
 <h3 align="center">!(your everyday developer)</h3>
 
 ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
@@ -28,16 +28,16 @@ Here are some ideas to get you started:
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs" width="20" height="20"/> 
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="20" height="20"/></p>
 
-- 👨‍💻 All of my projects are available  [here](https://github.com/CODER4149?tab=repositories)
+- 👨‍💻 All of my projects are available  [here](https://github.com/harshdarakhd?tab=repositories)
 
 - 💬 Ask me about **anything**
 
-- 📫 How to reach me **amol.d.4149@gmail.com**
+- 📫 How to reach me **harshdarak777@gmail.com**
 
 
 
 <p align="left"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=CODER4149&show_icons=true&count_private=true&theme=radical" alt="NiharZanwar" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harshdarakhd&show_icons=true&count_private=true&theme=radical" alt="NiharZanwar" />
  </p>
 
 

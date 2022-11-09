@@ -41,4 +41,4 @@ Here are some ideas to get you started:
  </p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pruthvi-parade&" alt="pruthvi-parade" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CODER4149&" alt="AmolYadav" /></p>

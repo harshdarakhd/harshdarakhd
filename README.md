@@ -23,9 +23,8 @@ Here are some ideas to get you started:
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=NiharZanwar" alt="NiharZanwar" />
 
- <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/amazonaws.svg" alt="aws"  width="20" height="20" /> 
+  
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="20" height="20"/> 
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs" width="20" height="20"/> 
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="20" height="20"/></p>
 
 - 👨‍💻 All of my projects are available  [here](https://github.com/harshdarakhd?tab=repositories)
@@ -37,7 +36,7 @@ Here are some ideas to get you started:
 
 
 <p align="left"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=harshdarakhd&show_icons=true&count_private=true&theme=radical" alt="NiharZanwar" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harshdarakhd&show_icons=true&count_private=true&theme=radical" alt="Harsh Darak" />
  </p>
 
 

@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
 
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=NiharZanwar" alt="NiharZanwar" />
+<img src="https://komarev.com/ghpvc/?username=harshdarakhd" alt="HarshDarak" />
 
   
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="20" height="20"/> 
@@ -36,7 +36,6 @@ Here are some ideas to get you started:
 
 
 <p align="left"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=harshdarakhd&show_icons=true&count_private=true&theme=radical" alt="Harsh Darak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshdarakhd&show_icons=true&count_private=true&theme=radical" alt="Harsh Darak" />
  </p>
-
 

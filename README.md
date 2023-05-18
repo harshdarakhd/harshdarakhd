@@ -9,7 +9,7 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic&style=for-the-badge" alt="iamharsh" /> </p> -->
 
-<h3>To Know More About Me:-[ahref](https://harshdarakhd.github.io/My_Portfolio/)
+<!-- <h3>To Know More About Me:-[ahref](https://harshdarakhd.github.io/My_Portfolio/) -->
 <!-- # 💫 About Me :
 - 😄 Pronouns: He/His
 - 🔭 I’m currently building [Frontier](https://frontier.xyz/).
